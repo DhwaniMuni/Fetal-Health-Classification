@@ -66,7 +66,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. **Download the Dataset**
 Download from Kaggle and save it as:
-```data/fetal_health.csv
+```bash
+data/fetal_health.csv
 ```
 4. **Run the Notebook**
 Open the Jupyter Notebook inside the notebooks/ folder and run all cells to view preprocessing, modeling, and evaluation.
