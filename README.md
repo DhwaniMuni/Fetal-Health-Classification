@@ -44,8 +44,6 @@ Because the license is not explicitly stated, I am **not including the CSV** fil
 > Ayres de Campos et al. (2000). SisPorto 2.0: A Program for Automated Analysis of Cardiotocograms.  
 > *J Matern Fetal Med,* 5:311–318.
 
-- **Code License**: You can add your own license here (MIT, Apache-2.0, etc.) if you choose.
-
 ---
 
 **Thank you for checking out this project!** 
